@@ -1,0 +1,9 @@
+.nav{
+    background-color: blue;
+    display: inline-block;
+    width: 20%;
+    min-height: 350px;
+    margin: 5px;
+    vertical-align: top;
+    border: 3px solid black;
+}
